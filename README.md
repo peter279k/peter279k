@@ -27,7 +27,7 @@
 
 ### Others
 
-- ![Open Source](https://img.shields.io/badge/open%20source-239120?style=for-the-badge&logo=hand&logoColor=white) contributor
+- ![Open Source Contributor](https://img.shields.io/badge/open%20source%20contributor-239120?style=for-the-badge&logo=hand&logoColor=white)
 
 ### Linux System Adminstration
 
