@@ -38,6 +38,10 @@
 <img alt="RHCSA" src="https://i.imgur.com/W8L1HG7.png" />
 <img alt="RHCE" src="https://i.imgur.com/OLuhWjJ.png" />
 
+### Database System
+
+<img width="300" height="300" alt="comptia-datasys-ce-certification" src="https://github.com/user-attachments/assets/c3bf62ee-8bce-409e-9598-5f74c90f922e" />
+
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter279k)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter279k&layout=compact)
