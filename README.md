@@ -42,6 +42,8 @@
 
 <img width="300" height="300" alt="comptia-datasys-ce-certification" src="https://github.com/user-attachments/assets/c3bf62ee-8bce-409e-9598-5f74c90f922e" />
 
+<img width="300" height="300" alt="comptia-data-ce" src="https://github.com/user-attachments/assets/23877511-65e3-4747-b9d7-9922620b2871" />
+
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter279k)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter279k&layout=compact)
